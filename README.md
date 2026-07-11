@@ -4,13 +4,13 @@
 
 <img src="reports/Dashbord_geomatry model graph.png" width="600" alt="Dashboard Report">
 
-<img src="reports/symetry report.png" width="200" alt="Dashboard Report">
+<img src="reports/symetry report.png" width="400" alt="Dashboard Report">
 
 <img src="reports/symetry heatmap.png" width="600" alt="Dashboard Report">
 
-<img src="reports/sysmetry analysis.png" width="200" alt="Dashboard Report">
+<img src="reports/sysmetry analysis.png" width="400" alt="Dashboard Report">
 
-<img src="reports/surface quality report.png" width="200" alt="Dashboard Report">
+<img src="reports/surface quality report.png" width="400" alt="Dashboard Report">
 
 <img src="reports/dashboard concept analysis report.png" width="600" alt="Dashboard Report">
 
