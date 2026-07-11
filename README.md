@@ -42,8 +42,8 @@ This repository contains a Python-based geometric analysis and pre-validation to
 
 <p align="center">
   <img src="reports/surface%20quality%20report.png" width="350" alt="Surface Quality Report"><br>
-  <img src="reports/dashboard%20concept%20analysis%20report.png" width="600" alt="Dashboard Concept Analysis Report"><br>
-  <img src="reports/final%20report.png" width="600" alt="Final Report">
+  <img src="reports/dashboard%20concept%20analysis%20report.png" width="800" alt="Dashboard Concept Analysis Report"><br>
+  <img src="reports/final%20report.png" width="800" alt="Final Report">
 </p>
 
 ---
