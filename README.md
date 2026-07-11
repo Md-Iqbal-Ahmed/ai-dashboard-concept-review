@@ -24,8 +24,8 @@ This repository contains a Python-based geometric analysis and pre-validation to
 *Initial extraction of the mesh properties and 3D visualization of the base dashboard model.*
 
 <p align="center">
-  <img src="reports/Dashbord_geometry%20model%20graph.png" width="600" alt="Dashboard Geometry Model Graph"><br>
-  <img src="reports/Geometry%20report.png" width="600" alt="Geometry Report">
+  <img src="reports/Geomatry report.png" width="600" alt="Dashboard Geometry Model Graph"><br>
+  <img src="reports/Dashbord_geomatry model graph.png" width="600" alt="Geometry Report">
 </p>
 
 ### 2. Symmetry Detection & Spatial Heatmap
