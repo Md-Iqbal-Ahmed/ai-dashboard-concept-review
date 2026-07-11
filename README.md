@@ -1,4 +1,4 @@
-# AI-Assisted Car Dashboard Concept Review Tool
+# AI-Assisted Vehicle Dashboard Concept Review Tool
 
 ## Overview
 This repository contains a Python-based geometric analysis and pre-validation tool designed to evaluate vehicle interior concepts (Digital Mock-Ups / DMUs) prior to formal CAD review. By automating the extraction of geometric properties and calculating spatial symmetry using KDTree algorithms, this tool helps engineers quickly identify design flaws, surface defects, and asymmetrical deviations in 3D concept models.
